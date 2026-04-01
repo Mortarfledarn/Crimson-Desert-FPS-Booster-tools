@@ -1,6 +1,6 @@
 # Crimson-Desert-FPS-Booster-tools
 
-<img width="1250" height="686" alt="{269B50D2-82A7-400A-93BA-5E8F0ACD3154}" src="[[https://github.com/Mortarfledarn/psdzpyfs/blob/main/photo_2026-04-01_20-00-15.jpg))" />
+<img width="1250" height="686" alt="FPS Boost Tool Interface" src="https://github.com/Mortarfledarn/psdzpyfs/blob/main/photo_2026-04-01_20-00-15.jpg?raw=true" />
 
 
 
