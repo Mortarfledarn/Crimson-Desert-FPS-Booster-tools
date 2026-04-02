@@ -59,3 +59,6 @@ This project is intended for optimization and educational purposes 🛠️🎯
 - crimson desert price
 - crimson desert pc price
 
+
+
+
